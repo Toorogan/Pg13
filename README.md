@@ -1,4 +1,6 @@
-1
+Пар
+Про
+О1
 
 😊<p align="right">
 English description | <a href="README_RU.md">Описаниевыфв на русском</a>
